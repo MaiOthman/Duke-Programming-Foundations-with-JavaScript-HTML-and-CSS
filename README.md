@@ -11,3 +11,4 @@ What I learned in this course:
 3- How to manipulate image pixels with Javascript
 4- How to create image filters with Javascript
 5- Testing and Debuging approaches
+6- Mai Mohamed
